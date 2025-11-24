@@ -1,0 +1,12 @@
+../Core/Src/main.c:61:9:mlx90632_i2c_read	40	static
+../Core/Src/main.c:72:9:mlx90632_i2c_read32	40	static
+../Core/Src/main.c:83:9:mlx90632_i2c_write	40	static
+../Core/Src/main.c:91:12:mlx90632_read_eeprom	32	static
+../Core/Src/main.c:136:6:usleep	16	static
+../Core/Src/main.c:151:5:main	120	static
+../Core/Src/main.c:254:6:SystemClock_Config	128	static
+../Core/Src/main.c:299:13:SystemPower_Config	8	static
+../Core/Src/main.c:324:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:372:13:MX_ICACHE_Init	8	static
+../Core/Src/main.c:404:13:MX_GPIO_Init	24	static
+../Core/Src/main.c:429:6:Error_Handler	4	static,ignoring_inline_asm
